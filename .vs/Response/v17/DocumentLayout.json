@@ -1,18 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\khanimshb\\Desktop\\Response\\",
+  "WorkspaceRootPath": "C:\\Users\\Xanim\\Desktop\\responseapi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|c:\\users\\khanimshb\\desktop\\response\\response\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|solutionrelative:response\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|c:\\users\\xanim\\desktop\\responseapi\\response\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|solutionrelative:response\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|c:\\users\\khanimshb\\desktop\\response\\response\\responcemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|c:\\users\\xanim\\desktop\\responseapi\\response\\response.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|solutionrelative:response\\response.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|c:\\users\\xanim\\desktop\\responseapi\\response\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|solutionrelative:response\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|c:\\users\\xanim\\desktop\\responseapi\\response\\responcemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|solutionrelative:response\\responcemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|c:\\users\\khanimshb\\desktop\\response\\response\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|c:\\users\\xanim\\desktop\\responseapi\\response\\response.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|solutionrelative:response\\response.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|c:\\users\\xanim\\desktop\\responseapi\\response\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|solutionrelative:response\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|c:\\users\\xanim\\desktop\\responseapi\\response\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|solutionrelative:response\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|c:\\users\\xanim\\desktop\\responseapi\\response\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|solutionrelative:response\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|c:\\users\\xanim\\desktop\\responseapi\\response\\helpers\\responcemodelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|solutionrelative:response\\helpers\\responcemodelhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|c:\\users\\xanim\\desktop\\responseapi\\response\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|solutionrelative:response\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|c:\\users\\xanim\\desktop\\responseapi\\response\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235D00A7-8A61-4B02-8A3A-7C3D8CB75BD2}|Response\\Response.csproj|solutionrelative:response\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +54,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 116,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Xanim\\Desktop\\responseapi\\Response\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Response\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Xanim\\Desktop\\responseapi\\Response\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Response\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-03T14:33:19.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Xanim\\Desktop\\responseapi\\Response\\appsettings.json",
+              "RelativeDocumentMoniker": "Response\\appsettings.json",
+              "ToolTip": "C:\\Users\\Xanim\\Desktop\\responseapi\\Response\\appsettings.json",
+              "RelativeToolTip": "Response\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-03T14:32:26.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Xanim\\Desktop\\responseapi\\Response\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Response\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Xanim\\Desktop\\responseapi\\Response\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Response\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T14:30:25.257Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
@@ -42,43 +109,112 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Response.csproj",
+              "DocumentMoniker": "C:\\Users\\Xanim\\Desktop\\responseapi\\Response\\Response.csproj",
+              "RelativeDocumentMoniker": "Response\\Response.csproj",
+              "ToolTip": "C:\\Users\\Xanim\\Desktop\\responseapi\\Response\\Response.csproj",
+              "RelativeToolTip": "Response\\Response.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-03T14:23:01.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResponceModelHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Xanim\\Desktop\\responseapi\\Response\\Helpers\\ResponceModelHelper.cs",
+              "RelativeDocumentMoniker": "Response\\Helpers\\ResponceModelHelper.cs",
+              "ToolTip": "C:\\Users\\Xanim\\Desktop\\responseapi\\Response\\Helpers\\ResponceModelHelper.cs",
+              "RelativeToolTip": "Response\\Helpers\\ResponceModelHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T13:28:36.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Xanim\\Desktop\\responseapi\\Response\\Program.cs",
+              "RelativeDocumentMoniker": "Response\\Program.cs",
+              "ToolTip": "C:\\Users\\Xanim\\Desktop\\responseapi\\Response\\Program.cs",
+              "RelativeToolTip": "Response\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T13:15:40.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Xanim\\Desktop\\responseapi\\Response\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Response\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Xanim\\Desktop\\responseapi\\Response\\appsettings.Development.json",
+              "RelativeToolTip": "Response\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-03T13:15:09.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Response.http",
+              "DocumentMoniker": "C:\\Users\\Xanim\\Desktop\\responseapi\\Response\\Response.http",
+              "RelativeDocumentMoniker": "Response\\Response.http",
+              "ToolTip": "C:\\Users\\Xanim\\Desktop\\responseapi\\Response\\Response.http",
+              "RelativeToolTip": "Response\\Response.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-06-03T13:14:53.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\khanimshb\\Desktop\\Response\\Response\\Controllers\\BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Xanim\\Desktop\\responseapi\\Response\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "Response\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\khanimshb\\Desktop\\Response\\Response\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Xanim\\Desktop\\responseapi\\Response\\Controllers\\BookController.cs",
               "RelativeToolTip": "Response\\Controllers\\BookController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAgwGAAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-31T10:15:33.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ResponceModel.cs",
-              "DocumentMoniker": "C:\\Users\\khanimshb\\Desktop\\Response\\Response\\ResponceModel.cs",
+              "DocumentMoniker": "C:\\Users\\Xanim\\Desktop\\responseapi\\Response\\ResponceModel.cs",
               "RelativeDocumentMoniker": "Response\\ResponceModel.cs",
-              "ToolTip": "C:\\Users\\khanimshb\\Desktop\\Response\\Response\\ResponceModel.cs",
+              "ToolTip": "C:\\Users\\Xanim\\Desktop\\responseapi\\Response\\ResponceModel.cs",
               "RelativeToolTip": "Response\\ResponceModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-31T10:13:45.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\khanimshb\\Desktop\\Response\\Response\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\Xanim\\Desktop\\responseapi\\Response\\Book.cs",
               "RelativeDocumentMoniker": "Response\\Book.cs",
-              "ToolTip": "C:\\Users\\khanimshb\\Desktop\\Response\\Response\\Book.cs",
+              "ToolTip": "C:\\Users\\Xanim\\Desktop\\responseapi\\Response\\Book.cs",
               "RelativeToolTip": "Response\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-31T10:12:54.862Z",
               "EditorCaption": ""

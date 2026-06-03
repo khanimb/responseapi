@@ -1,6 +1,6 @@
 @Response_HostAddress = http://localhost:5091
 
-GET {{Response_HostAddress}}/weatherforecast/
+GET {{Response_HostAddress}}/api/books
 Accept: application/json
 
 ###

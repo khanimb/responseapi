@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Response;
+using Response.Helpers;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -44,7 +45,7 @@ namespace WebApplication1.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<Book>> GetAll()
         {
-            return Ok(Books);
+            return Ok(ResponceModelHelper.CreateSuccessResponse(Books));
         }
 
         [HttpGet("{id}")]
